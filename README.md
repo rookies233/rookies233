@@ -1,4 +1,4 @@
-## Hi there 👋
+## 一心一意 登峰造极 👋
 
 <!--
 **rookies233/rookies233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
