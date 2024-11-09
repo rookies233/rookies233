@@ -1,4 +1,6 @@
-## 生命不息 思考不止 👋
+## 生命不息 思考不止 | Keep Thinking 👋
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--
 **rookies233/rookies233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 我是 tt
+### 我是 tt | I'm tt
 
 - 一位软件工程学生. & 开发菜鸟.
 
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### 开源项目
+### 开源项目 | Open Source Project
 - [TT-RPC 高性能 RPC 框架](https://github.com/rookies233/tt-rpc)
 
 ⭐️ From [rookies233](https://github.com/rookies233)
