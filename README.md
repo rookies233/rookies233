@@ -35,9 +35,4 @@ Here are some ideas to get you started:
 ### 开源项目
 - [TT-RPC 高性能 RPC 框架](https://github.com/rookies233/tt-rpc)
 
-### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
-
 ⭐️ From [rookies233](https://github.com/rookies233)
