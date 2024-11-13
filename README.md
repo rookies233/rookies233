@@ -1,4 +1,4 @@
-## 生命不息 思考不止 | Keep Thinking 👋
+## 一心一意 登峰造极 | Keep Thinking 👋
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
