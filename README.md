@@ -1,4 +1,4 @@
-## 一心一意 登峰造极 | Keep Thinking 👋
+## 真正的学徒，永远都怀着一颗学徒的心 | Keep Thinking 👋
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
