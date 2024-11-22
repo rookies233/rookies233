@@ -36,5 +36,6 @@ Here are some ideas to get you started:
 
 ### 开源项目 | Open Source Project
 - [TT-RPC 高性能 RPC 框架](https://github.com/rookies233/tt-rpc)
+- [MianKun 智能面试刷题平台](https://github.com/rookies233/miankun)
 
 ⭐️ From [rookies233](https://github.com/rookies233)
