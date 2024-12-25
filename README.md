@@ -36,5 +36,3 @@ Here are some ideas to get you started:
 
 ### 开源项目 | Open Source Project
 - [tRPC - 高性能 RPC 框架](https://github.com/rookies233/tt-rpc)
-
-⭐️ From [rookies233](https://github.com/tataotao)
