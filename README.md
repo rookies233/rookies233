@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目 | Open Source Project
-- [TT-RPC 高性能 RPC 框架](https://github.com/rookies233/tt-rpc)
+- [tRPC - 高性能 RPC 框架](https://github.com/rookies233/tt-rpc)
 
 ⭐️ From [rookies233](https://github.com/rookies233)
